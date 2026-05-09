@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TaskFlow — Project & Task Management App
 
 A full-stack web application for managing projects, assigning tasks, and tracking progress with role-based access control.
@@ -227,3 +228,6 @@ project-manager/
 6. Update task status
 7. Show dashboard stats and overdue detection
 8. Show mobile responsive view
+=======
+# PROJECT-MANAGERR
+>>>>>>> 70173c593e5fbcdea6a848a719591c37e3db28f8
